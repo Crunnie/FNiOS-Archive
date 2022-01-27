@@ -1,7 +1,7 @@
-# fortnite-ios-archive
+# Fortnite iOS Archive
 An archive full of iOS IPA files.
 
-Made with love by Crunnie.
+# Made with love by Crunnie.
 Thanks to: Jaiz, for providing Fortnite builds.
 
 # Chapter 1 Seasons
