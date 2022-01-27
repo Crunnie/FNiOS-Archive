@@ -9,6 +9,7 @@ https://drive.google.com/drive/folders/1lKzmW-szqWizauC8VhzzJFswrFx4WTpI?usp=sha
 
 | Season | Build | Download | 
 | :---: | ----------- | ----------- | 
+| 3 | Fortnite+Release-3.3-CL-3944819 | https://crun.xyz/33CL3944819 |
 | 3 | Fortnite+Release-3.5-CL-3994867 | https://crun.xyz/35CL3994867 |
 | 5 | Fortnite+Release-5.20-CL-4261111 | https://crun.xyz/520CL4261111 |
 | 6 | Fortnite+Release-6.00-CL-4395664 | https://crun.xyz/600CL4395664 |
