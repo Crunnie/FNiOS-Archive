@@ -7,7 +7,7 @@ Thanks to: Jaiz, for providing Fortnite builds.
 # Chapter 1 Seasons
 
 | Season | Build | Download | 
-| -------- | ------ | ---------- | 
+| ----------- | ------ | --------------------------- | 
 | Season 3 | Fortnite+Release-3.5-CL-3994867 | https://drive.google.com/file/d/1H62k0LMEqi_PAwB5bWWJC5gHJaX8phyo/view?usp=sharing |
 | Season 5 | Fortnite+Release-5.20-CL-4261111 | https://drive.google.com/file/d/153vyC265Dl45jcJtfdMroECzVsjfAFdH/view?usp=sharing |
 | Season 6 | Fortnite+Release-6.00-CL-4395664 | https://drive.google.com/file/d/1mcVa1UUaoBZk7Xb-cuWZZerDR3fq6UBv/view?usp=sharing |
