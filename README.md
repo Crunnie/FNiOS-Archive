@@ -1,8 +1,9 @@
 # Fortnite iOS Archive
 An archive full of iOS IPA files.
 
-# Made with love by Crunnie.
-Thanks to: Jaiz, for providing Fortnite builds.
+# Note:
+My domain (crun.xyz) might not work yet, so here's a Google Drive link with all the builds.
+https://drive.google.com/drive/folders/1lKzmW-szqWizauC8VhzzJFswrFx4WTpI?usp=sharing
 
 # Chapter 1
 
@@ -19,6 +20,9 @@ Thanks to: Jaiz, for providing Fortnite builds.
 | Season | Build | Download |
 | ----------- | ----------- | ----------- | 
 | 13 | Fortnite+Release-13.40-CL-14050091 | https://crun.xyz/1340CL14050091 |
+
+Credits:
+Jaiz, for providing Fortnite builds.
 
 
 
