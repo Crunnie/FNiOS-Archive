@@ -19,6 +19,9 @@ https://drive.google.com/drive/folders/1lKzmW-szqWizauC8VhzzJFswrFx4WTpI?usp=sha
 
 | Season | Build | Download |
 | :---: | ----------- | ----------- | 
+| 11 | Fortnite+Release-11.31-CL-10805056 | https://crun.xyz/1131CL10805056 |
+| 11 | Fortnite+Release-11.40-CL-11058555 | https://crun.xyz/1140CL11058555 |
+| 11 | Fortnite+Release-11.40-CL-11109625 | https://crun.xyz/1140CL11109625 |
 | 12 | Fortnite+Release-12.10-CL-11932896 | https://crun.xyz/1210CL11932896 |
 | 12 | Fortnite+Release-12.30-CL-12502545 | https://crun.xyz/1230CL12502545 |
 | 12 | Fortnite+Release-12.40-CL-12743645 | https://crun.xyz/1240CL12743645 |
