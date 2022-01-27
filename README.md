@@ -1,10 +1,6 @@
 # Fortnite iOS Archive
 An archive full of iOS IPA files.
 
-# Note:
-My domain (crun.xyz) might not work yet, so here's a Google Drive link with all the builds.
-https://drive.google.com/drive/folders/1lKzmW-szqWizauC8VhzzJFswrFx4WTpI?usp=sharing
-
 # Chapter 1
 
 | Season | Build | Download | 
@@ -27,6 +23,9 @@ https://drive.google.com/drive/folders/1lKzmW-szqWizauC8VhzzJFswrFx4WTpI?usp=sha
 | 12 | Fortnite+Release-12.30-CL-12502545 | https://crun.xyz/1230CL12502545 |
 | 12 | Fortnite+Release-12.40-CL-12743645 | https://crun.xyz/1240CL12743645 |
 | 13 | Fortnite+Release-13.40-CL-14050091 | https://crun.xyz/1340CL14050091 |
+
+# Alternative Link
+The direct link to all iOS builds is [here.](https://drive.google.com/drive/folders/1lKzmW-szqWizauC8VhzzJFswrFx4WTpI?usp=sharing "Crunnie's iOS Archive")
 
 Credits:
 Jaiz, for providing some Fortnite builds.
