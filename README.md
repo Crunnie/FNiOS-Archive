@@ -15,11 +15,11 @@ https://drive.google.com/drive/folders/1lKzmW-szqWizauC8VhzzJFswrFx4WTpI?usp=sha
 | 6 | Fortnite+Release-6.00-CL-4395664 | https://crun.xyz/600CL4395664 |
 | 7 | Fortnite+Release-7.20-CL-4727874 | https://crun.xyz/720CL4727874 |
 
-
 # Chapter 2
 
 | Season | Build | Download |
 | :---: | ----------- | ----------- | 
+| 12 | Fortnite+Release-12.40-CL-12743645 | https://crun.xyz/1240CL12743645 |
 | 13 | Fortnite+Release-13.40-CL-14050091 | https://crun.xyz/1340CL14050091 |
 
 Credits:
