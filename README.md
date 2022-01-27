@@ -18,7 +18,7 @@ https://drive.google.com/drive/folders/1lKzmW-szqWizauC8VhzzJFswrFx4WTpI?usp=sha
 # Chapter 2
 
 | Season | Build | Download |
-| ----------- | ----------- | ----------- | 
+| :---: | ----------- | ----------- | 
 | 13 | Fortnite+Release-13.40-CL-14050091 | https://crun.xyz/1340CL14050091 |
 
 Credits:
