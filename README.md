@@ -14,6 +14,7 @@ https://drive.google.com/drive/folders/1lKzmW-szqWizauC8VhzzJFswrFx4WTpI?usp=sha
 | 5 | Fortnite+Release-5.20-CL-4261111 | https://crun.xyz/520CL4261111 |
 | 6 | Fortnite+Release-6.00-CL-4395664 | https://crun.xyz/600CL4395664 |
 | 7 | Fortnite+Release-7.20-CL-4727874 | https://crun.xyz/720CL4727874 |
+| 7 | Fortnite+Release-7.40-CL-5011364 | https://crun.xyz/740CL5011364 |
 
 # Chapter 2
 
