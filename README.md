@@ -1,7 +1,7 @@
 
 <div align=center>
 
-# <img src="https://cdn.discordapp.com/attachments/751304558453719176/936194213199093810/rsz_1rsz_1apple_logo_greysvg.png" alt="Apple Logo" width="20" height="24"> Fortnite iOS Archive
+# <img src="https://cdn.discordapp.com/attachments/751304558453719176/936527365343961088/Android.png" alt="Android Logo" width="20" height="24"> Fortnite Android Archive
 An archive full of iOS IPA files.
 
 </div>
@@ -12,34 +12,19 @@ An archive full of iOS IPA files.
 | Season | Build | Download | 
 | :---: | ----------- | ----------- | 
 | 3 | Fortnite+Release-3.3-CL-3944819 | https://crun.xyz/33CL3944819 |
-| 3 | Fortnite+Release-3.4-CL-3968866 | https://crun.xyz/34CL3968866 |
-| 3 | Fortnite+Release-3.5-CL-3994867 | https://crun.xyz/35CL3994867 |
-| 4 | Fortnite+Release-4.2-CL-4072250 | https://crun.xyz/42CL4072250 |
-| 5 | Fortnite+Release-5.20-CL-4261111 | https://crun.xyz/520CL4261111 |
-| 5 | Fortnite+Release-5.40-CL-4342997 | https://crun.xyz/540CL4342997 |
-| 6 | Fortnite+Release-6.00-CL-4395664 | https://crun.xyz/600CL4395664 |
-| 6 | Fortnite+Release-6.01-CL-4413911 | https://crun.xyz/601CL4413911 |
-| 6 | Fortnite+Release-6.20-CL-4503517 | https://crun.xyz/620CL4503517 |
-| 7 | Fortnite+Release-7.20-CL-4727874 | https://crun.xyz/720CL4727874 |
-| 7 | Fortnite+Release-7.40-CL-5011364 | https://crun.xyz/740CL5011364 |
 
 # Chapter 2
 
 | Season | Build | Download |
 | :---: | ----------- | ----------- | 
 | 11 | Fortnite+Release-11.31-CL-10805056 | https://crun.xyz/1131CL10805056 |
-| 11 | Fortnite+Release-11.40-CL-11058555 | https://crun.xyz/1140CL11058555 |
-| 11 | Fortnite+Release-11.40-CL-11109625 | https://crun.xyz/1140CL11109625 |
-| 12 | Fortnite+Release-12.10-CL-11932896 | https://crun.xyz/1210CL11932896 |
-| 12 | Fortnite+Release-12.30-CL-12502545 | https://crun.xyz/1230CL12502545 |
-| 12 | Fortnite+Release-12.40-CL-12743645 | https://crun.xyz/1240CL12743645 |
-| 13 | Fortnite+Release-13.40-CL-14050091 | https://crun.xyz/1340CL14050091 |
+
 
 # Alternative Link
-The direct link to all iOS builds is [here.](https://drive.google.com/drive/folders/1lKzmW-szqWizauC8VhzzJFswrFx4WTpI?usp=sharing "Crunnie's iOS Archive")
+The direct link to all Android builds is [here.]( "Crunnie's Android Archive")
 
 # Credits
-Jaiz, for providing some Fortnite builds.
+
 
 
 
