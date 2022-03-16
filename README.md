@@ -7,6 +7,9 @@ An archive full of iOS IPA files.
 </div>
 <br>
 
+# A guide on how to install these
+I've made a simple guide to help you install the builds, you can find it [here.](https://github.com/Crunnie/FNiOS-Archive/blob/main/guide.md)
+
 # Chapter 1
 
 | Season | Build | Download | 
