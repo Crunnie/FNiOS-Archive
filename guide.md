@@ -49,6 +49,7 @@ Great! The selected build should now pop up in your browser, for me it looks lik
 ![Example of Downloading on Chrome](https://cdn.discordapp.com/attachments/952386927984775209/953748774524702820/unknown.png)
 
 After downloading move the file anywhere, for testing purposes I've moved it to my desktop, and put it in a folder called **'Fortnite iOS Archive Guide'.**
+
 ![Folder Example](https://cdn.discordapp.com/attachments/952386927984775209/953749387723550740/unknown.png)
 
 ## Part 2 - "Patching" the IPA file
@@ -73,6 +74,7 @@ To access that file we have to go 2 folders deep, first clicking Payload and the
 ![FortniteClient.app Folder](https://cdn.discordapp.com/attachments/952386927984775209/953758605008592946/unknown.png)
 
 We will end up here, from here we just need to open ue4commandline.txt
+
 ![ue4commandline.txt](https://cdn.discordapp.com/attachments/952386927984775209/953758733941497876/unknown.png)
 
 Inside this .txt file, there should be something like this:\
@@ -106,14 +108,17 @@ Click on the **blue** link above and download Sideloadly.
 ![Sideloadly Downloading](https://cdn.discordapp.com/attachments/952386927984775209/953760442528985168/unknown.png)
 
 Open the setup and install it wherever you want to.
+
 ![Sideloadly Installation](https://cdn.discordapp.com/attachments/952386927984775209/953761076711940136/unknown.png)
 
 After it's finished, this window will pop-up.
+
 ![Sideloadly App](https://cdn.discordapp.com/attachments/952386927984775209/953761876695744583/unknown.png)
 
 Click on the big **IPA** button on the left and select your modified IPA file.![IPA Selection](https://cdn.discordapp.com/attachments/952386927984775209/953762204795170976/unknown.png)
 
 Your Sideloadly app will look like this.
+
 ![Sideloadly App: Part II](https://cdn.discordapp.com/attachments/952386927984775209/953762472576303175/unknown.png)
 
 Before we install Fortnite, we need to link our Apple ID account to Sideloadly.
