@@ -34,7 +34,7 @@ Before we start, I'll answer some questions you might ask before doing this.
 Well you know, to begin you have to choose one of the builds listed on my archive [here.](https://github.com/Crunnie/FNiOS-Archive)
 
 You can see what season you are getting right **here.**
-![Season Example](https://media.discordapp.net/attachments/952386927984775209/953748401504264273/unknown.png)
+<img align="left">![Season Example](https://media.discordapp.net/attachments/952386927984775209/953748401504264273/unknown.png)
 
 For testing purposes, I will download Fortnite+Release-3.5-CL-3994867.
 ![Downloading the Example](https://cdn.discordapp.com/attachments/952386927984775209/953747885948805240/unknown.png)
