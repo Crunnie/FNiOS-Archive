@@ -62,9 +62,11 @@ I've heard this part isn't needed in some cases, but since this is a **Beginner-
 You can either extract the package, or edit in it. I'll show you the way of editing in it.
 
 Simply just open it to start.
+
 ![Opening our IPA File](https://cdn.discordapp.com/attachments/952386927984775209/953757267180785674/unknown.png)
 
 Opening the archive, this window should pop-up.
+
 ![7-Zip Archive IPA Window](https://cdn.discordapp.com/attachments/952386927984775209/953757904220078110/unknown.png)
 
 The file that we will need to edit is called 'ue4commandline.txt', which is located in 
