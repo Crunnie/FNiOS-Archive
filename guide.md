@@ -195,12 +195,34 @@ Here's a quick video showing how easy it is to use Google and launch into Fortni
 
 [![iOS Fortnite Google Login Showcase](https://media.discordapp.net/attachments/952386927984775209/953767587592941568/IMG_0495.png?width=1440&height=665)](https://www.youtube.com/watch?v=LsE2i0sqwfs "iOS Fortnite Google Login Showcase")
 
-## Step 6 - Work in Progress
+## Step 6 - In-Game Method
 
-I will add more stuff, such as Console .PAK, LawinServer and stuff like that later.
+You want to play in-game?
+Since the method is now public, you can do just that!
 
-I'm currently trying to do something else, I've already spent a shit ton of time doing this.
-Hope it helps though, since that's why I did it!
+> Note, you **can't** play with your friends, it's just singleplayer.
 
-Love you!
-**Made with love by Crunnie**  😘
+First, you need to download these **2 files**.
+
+- [pakchunkWoobyInGame-iosclient.pak](https://cdn.discordapp.com/attachments/957333285858586747/957341865227722862/pakchunkWoobyInGame-iosclient.pak "Credit to Wooby 😊")
+- [pakchunkWoobyInGame-iosclient.sig](https://cdn.discordapp.com/attachments/957333285858586747/957341865378709594/pakchunkWoobyInGame-iosclient.sig "Credit to Wooby 😊")
+
+The PAK was made by [**Wooby**](https://twitter.com/_wob "Wooby's Twitter"), thanks a lot!
+
+After that, download LawinServer.
+
+- [LawinServer-main.zip](https://github.com/Lawin0129/LawinServer/archive/refs/heads/main.zip "Credit to Lawin 😊")
+
+This server was made by [**Lawin**](https://github.com/Lawin0129 "Lawin's Github"), thanks a lot!
+
+Then download Fiddler Classic.
+
+- [FiddlerSetup.exe](https://telerik-fiddler.s3.amazonaws.com/fiddler/FiddlerSetup.exe "Fiddler Classic")
+
+Last step, download iMazing.
+
+- [iMazing2forWindows.exe](https://downloads.imazing.com/windows/iMazing/iMazing2forWindows.exe "iMazing Download")
+
+> Note, remember you need to have your iPhone connected during this step.
+
+After you finish downloading & installing it all, open iMazing.
