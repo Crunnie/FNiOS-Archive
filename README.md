@@ -25,6 +25,7 @@ I've made a simple guide to help you install the builds, you can find it [here.]
 | 6 | Fortnite+Release-6.20-CL-4503517 | https://crun.xyz/620CL4503517 |
 | 7 | Fortnite+Release-7.20-CL-4727874 | https://crun.xyz/720CL4727874 |
 | 7 | Fortnite+Release-7.40-CL-5011364 | https://crun.xyz/740CL5011364 |
+| 10 | Fortnite+Release-10.0-CL-7655413 | https://crun.xyz/1000-CL-7655413 |
 
 # Chapter 2
 
