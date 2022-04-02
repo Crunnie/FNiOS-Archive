@@ -43,7 +43,8 @@ I've made a simple guide to help you install the builds, you can find it [here.]
 The direct link to all iOS builds is [here.](https://drive.google.com/drive/folders/1lKzmW-szqWizauC8VhzzJFswrFx4WTpI?usp=sharing "Crunnie's iOS Archive")
 
 # Credits
-Jaiz, for providing some Fortnite builds.
+**Jaiz, WxvesFN, gomugomunomii**
+- for providing some Fortnite builds.
 
 
 
