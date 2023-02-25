@@ -22,7 +22,7 @@ Before we start, I'll answer some questions you might ask before doing this.
 - No.... just kidding, of course it is :D
 
 **Should I do this on my main Epic Games account?**
-- Honestly, I've done it on my main multiple times and nothing happened, so I'm **pretty sure** you can just use your main account on this (if you don't feel save just make a new, throwaway account).
+- Honestly, I've done it on my main multiple times and nothing happened, so I'm **pretty sure** you can just use your main account on this (if you don't feel safe just make a new, throwaway account).
 
 **Does this come with all skins, emotes, backblings etc?**
 - If you connect via LawinServer **(method will be available below)**, you got all of it.
